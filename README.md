@@ -6,3 +6,6 @@ Chapter 1: linear regression
 -- Tensorflow linear regression test Dec20.ipynb
 
 Chapter 2: Logistict regression
+
+Chapter 3: Simple logistic regression model to predict handwriting digits
+-- MNIST for ML Beginners DEc26.ipynb
