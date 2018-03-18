@@ -10,3 +10,5 @@ Chapter 2: Logistic regression
 
 Chapter 3: Simple logistic regression model to predict handwriting digits
 -- MNIST for ML Beginners.ipynb (Dec 26, 2016)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aayancheng/Tensorflow-Education/master)
